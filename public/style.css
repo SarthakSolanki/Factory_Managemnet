@@ -1,0 +1,113 @@
+#textarea-container{
+    position: absolute;
+    width: 871px;
+    height: 1040px;
+    left: 0px;
+    top: 0px;
+    background: #673AB7;
+}
+
+#loginInput{
+    box-sizing: border-box;
+    position: absolute;
+    width: 659px;
+    height: 93px;
+    left: 401px;
+    
+    background: #F5F5F5;
+    border: 1px solid #673AB7;
+    border-radius: 9px;
+
+}
+
+h6{
+    position: absolute;
+    width: 101px;
+    height: 24px;
+    left: 401px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.my-button{
+    position: absolute;
+    width: 659px;
+    height: 93px;
+    left: 401px;
+    top: 645px;
+
+    background: #FFFFFF;
+    border-radius: 9px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #673AB7;
+
+}
+
+#h5{
+    position: absolute;
+    width: 167px;
+    height: 19px;
+    left: 1237px;
+    top: 42px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+
+    color: #000000;
+}
+
+#button{
+    width: 435px;
+    height: 221px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800; 
+    font-size: 35px; 
+    line-height: 42px; 
+    text-align: center; 
+    
+    color: #673AB7; 
+    background: #FFFFFF;
+    border-radius: 15px;
+
+}
+
+#logout{
+    position: absolute;
+    width: 168px;
+    height: 60px;
+    left: 1223px;
+    top: 700px;
+
+    background: #673AB7;
+    border-radius: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+#link{
+    color: #FFFFFF;
+}
